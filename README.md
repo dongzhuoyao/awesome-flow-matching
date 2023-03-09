@@ -1,6 +1,11 @@
 # Awesome Flow Matching
 
 
+
+[![Star History Chart](https://api.star-history.com/svg?repos=dongzhuoyao/awesome-flow-matching&type=Date)](https://star-history.com/#dongzhuoyao/awesome-flow-matching&Date)
+
+
+
 # Papers
 
 **Flow Matching for Generative Modeling** \
