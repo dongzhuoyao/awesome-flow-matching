@@ -13,6 +13,13 @@
 arXiv 2022. [[Paper](https://arxiv.org/abs/2210.02747)] \
 10 Oct 2022
 
+# Theory
+
+**Self-Consistent Velocity Matching of Probability Flows** \
+*Lingxiao Li, Samuel Hurault, Justin Solomon* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2301.13737)] \
+22 Feb 2023
+
 
 # Applications
 
