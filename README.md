@@ -20,6 +20,17 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2210.02747)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2301.13737)] \
 22 Feb 2023
 
+**Stochastic Interpolants: A Unifying Framework for Flows and Diffusions** \
+*Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.08797)] \
+15 Mar 2023
+
+
+**Interpretable ODE-style Generative Diffusion Model via Force Field Construction** \
+*Weiyang Jin, Yongpei Zhu, Yuxi Peng* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.08063)] \
+15 Mar 2023
+
 
 # Applications
 
