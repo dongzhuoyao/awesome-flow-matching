@@ -32,6 +32,18 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.08063)] \
 15 Mar 2023
 
 
+**Generative Diffusions in Augmented Spaces: A Complete Recipe** \
+*Kushagra Pandey, Stephan Mandt* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2303.01748)] \
+3 Mar 2023
+
+
+**A theory of continuous generative flow networks** \
+*Salem Lahlou, Tristan Deleu, Pablo Lemos, Dinghuai Zhang, Alexandra Volokhova, Alex Hernández-García, Léna Néhale Ezzine, Yoshua Bengio, Nikolay Malkin* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12594),[Code](https://github.com/saleml/continuous-gfn)] \
+30 Jan 2023
+
+
 # Applications
 
 **Fast Point Cloud Generation with Straight Flows** \
