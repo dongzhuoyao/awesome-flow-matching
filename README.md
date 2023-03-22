@@ -15,6 +15,13 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2210.02747)] \
 
 # Theory
 
+
+**Minimizing Trajectory Curvature of ODE-based Generative Models** \
+*Sangyun Lee, Beomsu Kim, Jong Chul Ye* \
+arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12003)] \
+Jan 2023
+
+
 **Self-Consistent Velocity Matching of Probability Flows** \
 *Lingxiao Li, Samuel Hurault, Justin Solomon* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2301.13737)] \
