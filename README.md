@@ -16,6 +16,14 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2210.02747)] \
 # Theory
 
 
+**Action Matching: Learning Stochastic Dynamics from Samples** \
+*Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2210.06662)] \
+Oct 2022
+
+
+
+
 **Minimizing Trajectory Curvature of ODE-based Generative Models** \
 *Sangyun Lee, Beomsu Kim, Jong Chul Ye* \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12003)] \
