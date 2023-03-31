@@ -13,6 +13,11 @@
 arXiv 2022. [[Paper](https://arxiv.org/abs/2210.02747)] \
 10 Oct 2022
 
+**Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow**
+
+https://arxiv.org/pdf/2209.03003.pdf
+
+
 # Theory
 
 
