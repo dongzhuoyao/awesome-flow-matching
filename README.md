@@ -19,8 +19,11 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2210.06662)] \
 Oct 2022
 
 **Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow**
+*Xingchao Liu, Chengyue Gong, Qiang Liu* \
+arXiv 2022. [[Paper](https://arxiv.org/abs/2209.03003)] \
+Sep 2022
 
-https://arxiv.org/pdf/2209.03003.pdf
+
 
 
 # Theory
