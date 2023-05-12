@@ -33,7 +33,7 @@ Sep 2022
 
 
 **Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs** \
-*Kaiwen Zheng*, Cheng Lu*, Jianfei Chen, Jun Zhu* \
+*Kaiwen Zheng, Cheng Lu, Jianfei Chen, Jun Zhu* \
 ICML 2023. [[Paper](https://arxiv.org/abs/2305.03935)] \
 May 2023
 
