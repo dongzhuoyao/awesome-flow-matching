@@ -10,18 +10,23 @@
 
 **Flow Matching for Generative Modeling** \
 *Yaron Lipman, Ricky T. Q. Chen, Heli Ben-Hamu, Maximilian Nickel, Matt Le* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2210.02747)] \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2210.02747)] \
 10 Oct 2022
 
 **Action Matching: Learning Stochastic Dynamics from Samples** \
 *Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2210.06662)] \
+ICML 2023. [[Paper](https://arxiv.org/abs/2210.06662)] \
 Oct 2022
 
 **Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow**
 *Xingchao Liu, Chengyue Gong, Qiang Liu* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2209.03003)] \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2209.03003)] \
 Sep 2022
+
+**Minimizing trajectory curvature of ode-based383 generative models**
+*Sangyun Lee, Beomsu Kim, Jong Chul Ye* \
+ICML 2023. [[Paper](https://arxiv.org/abs/2301.12003)] \
+Jan 2023
 
 
 
