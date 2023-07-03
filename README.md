@@ -80,7 +80,46 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12594),[Code](https://github.com
 30 Jan 2023
 
 
+**Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs** \
+*Kaiwen Zheng, Cheng Lu, Jianfei Chen, Jun Zhu* \
+ICML 2023. [[Paper](https://arxiv.org/abs/2305.03935)] 
+
+
+**Diffusion Schrödinger Bridge Matching** \
+*Yuyang Shi, Valentin De Bortoli, Andrew Campbell, Arnaud Doucet* \
+Arxiv March 2023. [[Paper](https://arxiv.org/abs/2303.16852)] 
+
+
+**Aligned Diffusion Schrödinger Bridges** \
+*Vignesh Ram Somnath, Matteo Pariset, Ya-Ping Hsieh, Maria Rodriguez Martinez, Andreas Krause, Charlotte Bunne* \
+UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)] 
+
+
+
+
+
+
+
+
+
+
+
 # Applications
+
+
+**Unpaired Image-to-Image Translation via Neural Schrödinger Bridge** \
+*Beomsu Kim, Gihyun Kwon, Kwanyoung Kim, Jong Chul Ye* \
+Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.15086.pdf)] 
+
+
+**Flow Matching for Scalable Simulation-Based Inference** \
+*Maximilian Dax, Jonas Wildberger, Simon Buchholz, Stephen R. Green, Jakob H. Macke, Bernhard Schölkopf* \
+Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17161)] 
+
+**Equivariant flow matching** \
+*Leon Klein, Andreas Krämer, Frank Noé* \
+Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.15030)] 
+
 
 **Fast Point Cloud Generation with Straight Flows** \
 *Lemeng Wu, Dilin Wang, Chengyue Gong, Xingchao Liu, Yunyang Xiong, Rakesh Ranjan, Raghuraman Krishnamoorthi, Vikas Chandra, Qiang Liu* \
