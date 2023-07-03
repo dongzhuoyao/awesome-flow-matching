@@ -18,34 +18,34 @@ ICLR 2023. [[Paper](https://arxiv.org/abs/2210.02747)] \
 ICML 2023. [[Paper](https://arxiv.org/abs/2210.06662)] \
 Oct 2022
 
-**Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow**
+**Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow** \
 *Xingchao Liu, Chengyue Gong, Qiang Liu* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2209.03003)] \
 Sep 2022
 
-**Minimizing trajectory curvature of ode-based383 generative models**
+**Minimizing trajectory curvature of ode-based383 generative models** \
 *Sangyun Lee, Beomsu Kim, Jong Chul Ye* \
 ICML 2023. [[Paper](https://arxiv.org/abs/2301.12003)] \
 Jan 2023
 
-**Error Bounds for Flow Matching Methods**
+**Error Bounds for Flow Matching Methods** \
 *Joe Benton, George Deligiannidis, Arnaud Doucet* \
 Arxiv 2023. [[Paper](https://arxiv.org/abs/2305.16860)] 
 
 
 
-**Functional Flow Matching**
+**Functional Flow Matching** \
 *Gavin Kerrigan, Giosue Migliorini, Padhraic Smyth* \
 Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)] 
 
 
-**Multisample Flow Matching: Straightening Flows with Minibatch Couplings**
+**Multisample Flow Matching: Straightening Flows with Minibatch Couplings** \
 *Aram-Alexandre Pooladian, Heli Ben-Hamu, Carles Domingo-Enrich, Brandon Amos, Yaron Lipman, Ricky T. Q. Chen* \
 Arxiv Apr 2023. [[Paper](https://arxiv.org/abs/2304.14772)] 
 
 
 
-**On Kinetic Optimal Probability Paths for Generative Models**
+**On Kinetic Optimal Probability Paths for Generative Models** \
 *Neta Shaul, Ricky T. Q. Chen, Maximilian Nickel, Matt Le, Yaron Lipman* \
 Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.06626)] 
 
@@ -129,11 +129,11 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 # Applications
 
 
-**Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale**
+**Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale** \
 *Matthew Le, Apoorv Vyas, Bowen Shi, Brian Karrer, Leda Sari, Rashel Moritz, Mary Williamson, Vimal Manohar, Yossi Adi, Jay Mahadeokar, Wei-Ning Hsu* \
 Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.15687)] 
 
-**Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions**
+**Learn the Force We Can: Multi-Object Video Generation from Pixel-Level Interactions** \
 *Aram Davtyan, Paolo Favaro* \
 Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.03988)] 
 
