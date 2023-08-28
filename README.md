@@ -23,7 +23,7 @@ Oct 2022
 ICLR 2023. [[Paper](https://arxiv.org/abs/2209.03003)] \
 Sep 2022
 
-**Minimizing trajectory curvature of ode-based383 generative models** \
+**Minimizing trajectory curvature of ode-based generative models** \
 *Sangyun Lee, Beomsu Kim, Jong Chul Ye* \
 ICML 2023. [[Paper](https://arxiv.org/abs/2301.12003)] \
 Jan 2023
