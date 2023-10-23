@@ -13,31 +13,22 @@
 ICLR 2023. [[Paper](https://arxiv.org/abs/2210.02747)] \
 10 Oct 2022
 
-**Action Matching: Learning Stochastic Dynamics from Samples** \
-*Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani* \
-ICML 2023. [[Paper](https://arxiv.org/abs/2210.06662)] \
-Oct 2022
+**Stochastic Interpolants:A Unifying Framework for Flows and Diffusions** \
+*Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden* \
+Arxiv 2023. [[Paper](https://arxiv.org/abs/2303.08797)] \
+March 2023
+
 
 **Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow** \
 *Xingchao Liu, Chengyue Gong, Qiang Liu* \
 ICLR 2023. [[Paper](https://arxiv.org/abs/2209.03003)] \
 Sep 2022
 
+
 **Minimizing trajectory curvature of ode-based generative models** \
 *Sangyun Lee, Beomsu Kim, Jong Chul Ye* \
 ICML 2023. [[Paper](https://arxiv.org/abs/2301.12003)] \
 Jan 2023
-
-**Error Bounds for Flow Matching Methods** \
-*Joe Benton, George Deligiannidis, Arnaud Doucet* \
-Arxiv 2023. [[Paper](https://arxiv.org/abs/2305.16860)] 
-
-
-
-**Functional Flow Matching** \
-*Gavin Kerrigan, Giosue Migliorini, Padhraic Smyth* \
-Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)] 
-
 
 **Multisample Flow Matching: Straightening Flows with Minibatch Couplings** \
 *Aram-Alexandre Pooladian, Heli Ben-Hamu, Carles Domingo-Enrich, Brandon Amos, Yaron Lipman, Ricky T. Q. Chen* \
@@ -49,6 +40,23 @@ Arxiv Apr 2023. [[Paper](https://arxiv.org/abs/2304.14772)]
 *Neta Shaul, Ricky T. Q. Chen, Maximilian Nickel, Matt Le, Yaron Lipman* \
 Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.06626)] 
 
+
+
+**Action Matching: Learning Stochastic Dynamics from Samples** \
+*Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani* \
+ICML 2023. [[Paper](https://arxiv.org/abs/2210.06662)] \
+Oct 2022
+
+
+**Error Bounds for Flow Matching Methods** \
+*Joe Benton, George Deligiannidis, Arnaud Doucet* \
+Arxiv 2023. [[Paper](https://arxiv.org/abs/2305.16860)] 
+
+
+
+**Functional Flow Matching** \
+*Gavin Kerrigan, Giosue Migliorini, Padhraic Smyth* \
+Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)] 
 
 
 
