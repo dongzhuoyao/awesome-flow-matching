@@ -146,6 +146,10 @@ Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.15687)]
 Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.03988)] 
 
 
+**Latent Space Editing in Transformer-based Flow Matching** \
+*Tao Hu, David W Zhang, Pascal Mettes, Meng Tang, Deli Zhao, and Cees G.M. Snoek* \
+Arxiv Oct 2023. [[Paper](https://openreview.net/pdf?id=Bi6E5rPtBa)] 
+
 
 
 **Unpaired Image-to-Image Translation via Neural Schrödinger Bridge** \
