@@ -13,7 +13,13 @@
 ICLR 2023. [[Paper](https://arxiv.org/abs/2210.02747)] \
 10 Oct 2022
 
-**Stochastic Interpolants:A Unifying Framework for Flows and Diffusions** \
+
+**Building Normalizing Flows with Stochastic Interpolants** \
+*Michael S. Albergo and Eric Vanden-Eijnden* \
+ICLR 2023. [[Paper](https://arxiv.org/abs/2209.15571)] \
+Sept 2022
+
+**Stochastic Interpolants: A Unifying Framework for Flows and Diffusions** \
 *Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden* \
 Arxiv 2023. [[Paper](https://arxiv.org/abs/2303.08797)] \
 March 2023
