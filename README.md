@@ -70,8 +70,9 @@ Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)]
 # Theory
 
 
-
-
+**Bespoke Solvers for Generative Flow Models** \
+*Neta Shaul, Juan Perez, Ricky T. Q. Chen, Ali Thabet, Albert Pumarola, Yaron Lipman*\
+Arxiv 2023. [[Paper](https://arxiv.org/abs/2310.19075)] 
 
 **Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs** \
 *Kaiwen Zheng, Cheng Lu, Jianfei Chen, Jun Zhu* \
@@ -142,6 +143,18 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 
 # Applications
 
+
+**Latent Space Editing in Transformer-based Flow Matching** \
+*Vincent Tao Hu, David W Zhang, Pascal Mettes, Meng Tang, Deli Zhao, Cees G.M. Snoek* \
+ AAAI 2024. [[Paper](https://arxiv.org/abs/2312.10825)] 
+
+ **Motion Flow Matching for Human Motion Synthesis and Editing** \
+*Vincent Tao Hu, Wenzhe Yin, Pingchuan Ma, Yunlu Chen, Basura Fernando, Yuki M Asano, Efstratios Gavves, Pascal Mettes, Bjorn Ommer, Cees G. M. Snoek* \
+ Arxiv 2023. [[Paper](https://arxiv.org/abs/2312.08895)] 
+
+**Guided Diffusion from Self-Supervised Diffusion Features** \
+*Vincent Tao Hu, Yunlu Chen, Mathilde Caron, Yuki M. Asano, Cees G. M. Snoek, Bjorn Ommer* \
+ Arxiv 2023. [[Paper](https://arxiv.org/abs/2312.08825)] 
 
 **Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale** \
 *Matthew Le, Apoorv Vyas, Bowen Shi, Brian Karrer, Leda Sari, Rashel Moritz, Mary Williamson, Vimal Manohar, Yossi Adi, Jay Mahadeokar, Wei-Ning Hsu* \
