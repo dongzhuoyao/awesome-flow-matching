@@ -144,6 +144,7 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 # Applications
 
 
+
 **Latent Space Editing in Transformer-based Flow Matching** \
 *Vincent Tao Hu, David W Zhang, Pascal Mettes, Meng Tang, Deli Zhao, Cees G.M. Snoek* \
  AAAI 2024. [[Paper](https://arxiv.org/abs/2312.10825)] 
@@ -156,6 +157,12 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 *Vincent Tao Hu, Yunlu Chen, Mathilde Caron, Yuki M. Asano, Cees G. M. Snoek, Bjorn Ommer* \
  Arxiv 2023. [[Paper](https://arxiv.org/abs/2312.08825)] 
 
+
+**Mosaic-SDF for 3D Generative Models** \
+*Lior Yariv, Omri Puny, Natalia Neverova, Oran Gafni, Yaron Lipman* \
+ Arxiv 2312. [[Paper](https://arxiv.org/abs/2312.09222)] 
+
+ 
 **Voicebox: Text-Guided Multilingual Universal Speech Generation at Scale** \
 *Matthew Le, Apoorv Vyas, Bowen Shi, Brian Karrer, Leda Sari, Rashel Moritz, Mary Williamson, Vimal Manohar, Yossi Adi, Jay Mahadeokar, Wei-Ning Hsu* \
 Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.15687)] 
