@@ -144,6 +144,10 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 # Applications
 
 
+**Bellman Optimal Step-size Straightening of Flow-Matching Models** \
+*Bao Nguyen, Binh Nguyen, Viet Anh Nguyen* \
+ Arxiv 2312. [[Paper](https://arxiv.org/abs/2312.16414)] 
+
 
 **Latent Space Editing in Transformer-based Flow Matching** \
 *Vincent Tao Hu, David W Zhang, Pascal Mettes, Meng Tang, Deli Zhao, Cees G.M. Snoek* \
