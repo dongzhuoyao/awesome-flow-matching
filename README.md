@@ -143,6 +143,10 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 
 # Applications
 
+**SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers** \
+*Nanye Ma, Mark Goldstein, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, Saining Xie* \
+ Arxiv 2401. [[Paper](https://arxiv.org/abs/2401.08740)] 
+ 
 
 **Bellman Optimal Step-size Straightening of Flow-Matching Models** \
 *Bao Nguyen, Binh Nguyen, Viet Anh Nguyen* \
