@@ -143,6 +143,11 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 
 # Applications
 
+**Boosting Latent Diffusion with Flow Matching** \
+*Johannes S. Fischer, Ming Gui, Pingchuan Ma, Nick Stracke, Stefan A. Baumann, Björn Ommer* \
+ Arxiv 2312. [[Paper](https://arxiv.org/abs/2312.07360)] 
+ 
+
 **SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers** \
 *Nanye Ma, Mark Goldstein, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, Saining Xie* \
  Arxiv 2401. [[Paper](https://arxiv.org/abs/2401.08740)] 
