@@ -69,6 +69,12 @@ Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)]
 
 # Theory
 
+**Extended Flow Matching: a Method of Conditional Generation with
+Generalized Continuity Equation** \
+*Noboru Isobe, Masanori Koyama, Kohei Hayashi, Kenji Fukumizu*\
+Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.18839)] 
+
+
 
 **Bespoke Solvers for Generative Flow Models** \
 *Neta Shaul, Juan Perez, Ricky T. Q. Chen, Ali Thabet, Albert Pumarola, Yaron Lipman*\
