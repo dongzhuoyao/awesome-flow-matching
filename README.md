@@ -156,8 +156,8 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
  
 
 **Scaling Rectified Flow Transformers for High-Resolution Image Synthesis** \
-*Patrick Esser * Sumith Kulal Andreas Blattmann Rahim Entezari Jonas Muller Harry Saini Yam Levi Dominik Lorenz Axel Sauer Frederic Boesel Dustin Podell Tim Dockhorn Zion English
-Kyle Lacey Alex Goodwin Yannik Marek Robin Rombach ** \
+*Patrick Esser  Sumith Kulal Andreas Blattmann Rahim Entezari Jonas Muller Harry Saini Yam Levi Dominik Lorenz Axel Sauer Frederic Boesel Dustin Podell Tim Dockhorn Zion English
+Kyle Lacey Alex Goodwin Yannik Marek Robin Rombach * \
  2402. [[Paper](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf)] 
 
  
