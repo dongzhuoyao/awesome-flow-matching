@@ -160,7 +160,10 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 Kyle Lacey Alex Goodwin Yannik Marek Robin Rombach * \
  2402. [[Paper](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf)] 
 
- 
+**Flow Matching for Conditional Text Generation in a Few Sampling Steps**
+*Vincent Tao Hu, Di Wu, Yuki M. Asano, Pascal Mettes, Basura Fernando, Björn Ommer, Cees G.M. Snoek* \
+ EACL 2024. [[Paper](https://aclanthology.org/2024.eacl-short.33.pdf)] 
+
 
 **SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers** \
 *Nanye Ma, Mark Goldstein, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, Saining Xie* \
