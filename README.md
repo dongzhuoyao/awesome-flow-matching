@@ -150,9 +150,13 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 # Applications
 
 
-**Boosting Latent Diffusion with Flow Matching** \
+**Boosting Latent Diffusion with Flow Matching**\
 *Johannes S. Fischer, Ming Gui, Pingchuan Ma, Nick Stracke, Stefan A. Baumann, Björn Ommer* \
  Arxiv 2312. [[Paper](https://arxiv.org/abs/2312.07360)] 
+
+**Guided Flows for Generative Modeling and Decision Making** \
+*Qinqing Zheng, Matt Le, Neta Shaul, Yaron Lipman, Aditya Grover, Ricky T. Q. Chen* \
+ Arxiv 2311. [[Paper](https://arxiv.org/abs/2311.13443)] 
  
 
 **Scaling Rectified Flow Transformers for High-Resolution Image Synthesis** \
