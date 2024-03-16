@@ -149,6 +149,11 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 
 # Applications
 
+**AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies**\
+*Xixi Hu, Bo Liu, Xingchao Liu, Qiang Liu* \
+ Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)] 
+
+
 **Precise Knowledge Transfer via Flow Matching**\
 *Shitong Shao, Zhiqiang Shen, Linrui Gong, Huanran Chen, Xu Dai* \
  Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.02012)] 
