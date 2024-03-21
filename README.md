@@ -137,6 +137,9 @@ Arxiv March 2023. [[Paper](https://arxiv.org/abs/2303.16852)]
 *Vignesh Ram Somnath, Matteo Pariset, Ya-Ping Hsieh, Maria Rodriguez Martinez, Andreas Krause, Charlotte Bunne* \
 UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)] 
 
+**Optimal Flow Matching: Learning Straight Trajectories in Just One Step** \
+*Nikita Kornilov, Alexander Gasnikov, Alexander Korotin* \
+Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13117)] 
 
 
 
