@@ -152,6 +152,10 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13117)]
 
 # Applications
 
+**Probabilistic Forecasting with Stochastic Interpolants and F¨ollmer Processes** \ 
+*Yifan Chen, Mark Goldstein, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden* \
+ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13724)] 
+
 **DepthFM: Fast Monocular Depth Estimation with Flow Matching**\
 *Ming Gui, Johannes S. Fischer, Ulrich Prestel, Pingchuan Ma, Dmytro Kotovenko, Olga Grebenkova, Stefan Andreas Baumann, Vincent Tao Hu, Björn Ommer* \
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13788)] 
