@@ -149,6 +149,15 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 
 # Applications
 
+**DepthFM: Fast Monocular Depth Estimation with Flow Matching**\
+*Ming Gui, Johannes S. Fischer, Ulrich Prestel, Pingchuan Ma, Dmytro Kotovenko, Olga Grebenkova, Stefan Andreas Baumann, Vincent Tao Hu, Björn Ommer* \
+ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13788)] 
+
+**ZigMa: Zigzag Mamba Diffusion Model**\
+*Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer* \
+ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13802)] 
+ 
+
 **AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies**\
 *Xixi Hu, Bo Liu, Xingchao Liu, Qiang Liu* \
  Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)] 
