@@ -1,4 +1,4 @@
-# Awesome Flow Matching
+# Awesome Flow Matching ( Stochastic Interpolant )
 
 
 
