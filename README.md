@@ -152,12 +152,12 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13117)]
 
 # Applications
 
-**Generalized Consistency Trajectory Models for Image Manipulation** \ 
+**Generalized Consistency Trajectory Models for Image Manipulation**\ 
 *Beomsu Kim, Jaemin Kim, Jeongsol Kim, Jong Chul Ye* \
 Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.12510)] 
  
 
-**Probabilistic Forecasting with Stochastic Interpolants and F¨ollmer Processes** \ 
+**Probabilistic Forecasting with Stochastic Interpolants and F¨ollmer Processes**\ 
 *Yifan Chen, Mark Goldstein, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden* \
 Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13724)] 
 
