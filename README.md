@@ -154,16 +154,16 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13117)]
 
 **Generalized Consistency Trajectory Models for Image Manipulation**\ 
 *Beomsu Kim, Jaemin Kim, Jeongsol Kim, Jong Chul Ye* \
-Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.12510)] 
+ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.12510)] 
  
 
 **Probabilistic Forecasting with Stochastic Interpolants and F¨ollmer Processes**\ 
 *Yifan Chen, Mark Goldstein, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden* \
-Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13724)] 
+ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13724)] 
 
 **DepthFM: Fast Monocular Depth Estimation with Flow Matching**\
-*Ming Gui, Johannes S. Fischer, Ulrich Prestel, Pingchuan Ma, Dmytro Kotovenko, Olga Grebenkova, Stefan Andreas Baumann, Vincent Tao Hu, Björn Ommer* \
-Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13788)] 
+*Ming Gui*, Johannes S. Fischer*, Ulrich Prestel, Pingchuan Ma, Dmytro Kotovenko, Olga Grebenkova, Stefan Andreas Baumann, Vincent Tao Hu, Björn Ommer* \
+ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13788)] 
 
 **ZigMa: Zigzag Mamba Diffusion Model**\
 *Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer* \
@@ -172,7 +172,7 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13788)]
 
 **AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies**\
 *Xixi Hu, Bo Liu, Xingchao Liu, Qiang Liu* \
- Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)] 
+Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)] 
 
 
 **Precise Knowledge Transfer via Flow Matching**\
@@ -181,7 +181,7 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13788)]
 
 
 **Boosting Latent Diffusion with Flow Matching**\
-*Johannes S. Fischer, Ming Gui, Pingchuan Ma, Nick Stracke, Stefan A. Baumann, Björn Ommer* \
+*Johannes S. Fischer*, Ming Gui*, Pingchuan Ma*, Nick Stracke, Stefan A. Baumann, Björn Ommer* \
  Arxiv 2312. [[Paper](https://arxiv.org/abs/2312.07360)] 
 
 **Guided Flows for Generative Modeling and Decision Making** \
