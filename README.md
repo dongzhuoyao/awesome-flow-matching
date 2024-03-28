@@ -67,6 +67,7 @@ Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)]
 
 
 
+
 # Theory
 
 **Extended Flow Matching: a Method of Conditional Generation with
@@ -142,6 +143,9 @@ UAI 2023. [[Paper](https://arxiv.org/abs/2302.11419)]
 Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13117)] 
 
 
+**Simplified Diffusion Schrödinger Bridge** \
+*Zhicong Tang, Tiankai Hang, Shuyang Gu, Dong Chen, Baining Guo* \
+Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)] 
 
 
 
