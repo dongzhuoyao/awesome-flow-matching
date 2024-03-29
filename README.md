@@ -156,6 +156,10 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
 
 # Applications
 
+**LayoutFlow: Flow Matching for Layout Generation**\
+*Julian Jorge Andrade Guerreiro, Naoto Inoue, Kento Masui, Mayu Otani, Hideki Nakayama* \
+ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.18187)] 
+
 **Generalized Consistency Trajectory Models for Image Manipulation**\ 
 *Beomsu Kim, Jaemin Kim, Jeongsol Kim, Jong Chul Ye* \
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.12510)] 
