@@ -3,6 +3,17 @@
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=dongzhuoyao/awesome-flow-matching&type=Date)](https://star-history.com/#dongzhuoyao/awesome-flow-matching&Date)
+# Contributors
+
+
+<!-- readme: collaborators,contributors -start -->
+
+<!-- readme: collaborators,contributors -end -->
+
+<a href="https://github.com/dongzhuoyao/awesome-flow-matching/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dongzhuoyao/awesome-flow-matching" />
+</a>
+
 
 
 
@@ -284,15 +295,4 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.14575)] \
 arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03660)] \
 27 Feb 2023
 
-
-# Contributors
-
-
-<!-- readme: collaborators,contributors -start -->
-
-<!-- readme: collaborators,contributors -end -->
-
-<a href="https://github.com/dongzhuoyao/awesome-flow-matching/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=dongzhuoyao/awesome-flow-matching" />
-</a>
 
