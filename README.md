@@ -171,6 +171,11 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
 
 # Applications
 
+**Dynamic Conditional Optimal Transport through Simulation-Free Flows** \ 
+*Gavin Kerrigan, Giosue Migliorini, Padhraic Smyth* \
+ Arxiv 2404. [[Paper](https://arxiv.org/abs/2404.04240)] 
+ 
+
 **LayoutFlow: Flow Matching for Layout Generation**\
 *Julian Jorge Andrade Guerreiro, Naoto Inoue, Kento Masui, Mayu Otani, Hideki Nakayama* \
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.18187)] 
