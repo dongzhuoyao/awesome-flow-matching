@@ -80,6 +80,13 @@ Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)]
 *Grigory Bartosh, Dmitry Vetrov, Christian A. Naesseth* \
 Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.12940)] 
 
+**Align Your Steps: Optimizing Sampling Schedules in Diffusion Models** \
+*Amirmojtaba Sabour, Sanja Fidler, Karsten Kreis* \
+Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14507)] 
+
+**Multidimensional Interpolants** \ 
+*Dohoon Lee, Kyogu Lee* \
+Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)] 
 
 
 # Theory
