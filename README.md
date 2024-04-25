@@ -76,6 +76,9 @@ Arxiv 2023. [[Paper](https://arxiv.org/abs/2305.16860)]
 Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)] 
 
 
+**Neural Flow Diffusion Models: Learnable Forward Process for Improved Diffusion Modelling** \
+*Grigory Bartosh, Dmitry Vetrov, Christian A. Naesseth* \
+Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.12940)] 
 
 
 
