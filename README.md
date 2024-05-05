@@ -183,7 +183,7 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
 
 **D-Flow: Differentiating through Flows for Controlled Generation**\
 *Heli Ben-Hamu, Omri Puny, Itai Gat, Brian Karrer, Uriel Singer, Yaron Lipman* \
- Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.14017)] 
+ ICML 2024. [[Paper](https://arxiv.org/abs/2402.14017)] 
  
 
 **Dynamic Conditional Optimal Transport through Simulation-Free Flows** \ 
