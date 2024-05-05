@@ -181,6 +181,11 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
 
 # Applications
 
+**D-Flow: Differentiating through Flows for Controlled Generation**\
+*Heli Ben-Hamu, Omri Puny, Itai Gat, Brian Karrer, Uriel Singer, Yaron Lipman* \
+ Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.14017)] 
+ 
+
 **Dynamic Conditional Optimal Transport through Simulation-Free Flows** \ 
 *Gavin Kerrigan, Giosue Migliorini, Padhraic Smyth* \
  Arxiv 2404. [[Paper](https://arxiv.org/abs/2404.04240)] 
