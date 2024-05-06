@@ -200,7 +200,7 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
  Arxiv 2404. [[Paper](https://arxiv.org/abs/2404.04240)] 
  
 
-**LayoutFlow: Flow Matching for Layout Generation**\
+**LayoutFlow: Flow Matching for Layout Generation** \
 *Julian Jorge Andrade Guerreiro, Naoto Inoue, Kento Masui, Mayu Otani, Hideki Nakayama* \
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.18187)] 
 
@@ -209,30 +209,30 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.12510)] 
  
 
-**Probabilistic Forecasting with Stochastic Interpolants and F¨ollmer Processes**\ 
+**Probabilistic Forecasting with Stochastic Interpolants and F¨ollmer Processes** \ 
 *Yifan Chen, Mark Goldstein, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden* \
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13724)] 
 
-**DepthFM: Fast Monocular Depth Estimation with Flow Matching**\
+**DepthFM: Fast Monocular Depth Estimation with Flow Matching** \
 *Ming Gui*, Johannes S. Fischer*, Ulrich Prestel, Pingchuan Ma, Dmytro Kotovenko, Olga Grebenkova, Stefan Andreas Baumann, Vincent Tao Hu, Björn Ommer* \
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13788)] 
 
-**ZigMa: Zigzag Mamba Diffusion Model**\
+**ZigMa: Zigzag Mamba Diffusion Model** \
 *Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer* \
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13802)] 
  
 
-**AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies**\
+**AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies** \
 *Xixi Hu, Bo Liu, Xingchao Liu, Qiang Liu* \
 Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)] 
 
 
-**Precise Knowledge Transfer via Flow Matching**\
+**Precise Knowledge Transfer via Flow Matching** \
 *Shitong Shao, Zhiqiang Shen, Linrui Gong, Huanran Chen, Xu Dai* \
  Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.02012)] 
 
 
-**Boosting Latent Diffusion with Flow Matching**\
+**Boosting Latent Diffusion with Flow Matching** \
 *Johannes S. Fischer*, Ming Gui*, Pingchuan Ma*, Nick Stracke, Stefan A. Baumann, Björn Ommer* \
  Arxiv 2312. [[Paper](https://arxiv.org/abs/2312.07360)] 
 
@@ -241,12 +241,11 @@ Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)]
  Arxiv 2311. [[Paper](https://arxiv.org/abs/2311.13443)] 
  
 
-**Scaling Rectified Flow Transformers for High-Resolution Image Synthesis** \
-*Patrick Esser  Sumith Kulal Andreas Blattmann Rahim Entezari Jonas Muller Harry Saini Yam Levi Dominik Lorenz Axel Sauer Frederic Boesel Dustin Podell Tim Dockhorn Zion English
-Kyle Lacey Alex Goodwin Yannik Marek Robin Rombach * \
- 2402. [[Paper](https://stabilityai-public-packages.s3.us-west-2.amazonaws.com/Stable+Diffusion+3+Paper.pdf)] 
+**Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**  \
+*Patrick Esser, Sumith Kulal, Andreas Blattmann, Rahim Entezari, Jonas Müller, Harry Saini, Yam Levi, Dominik Lorenz, Axel Sauer, Frederic Boesel, Dustin Podell, Tim Dockhorn, Zion English, Kyle Lacey, Alex Goodwin, Yannik Marek, Robin Rombach * \
+ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.03206)] 
 
-**Flow Matching for Conditional Text Generation in a Few Sampling Steps**
+**Flow Matching for Conditional Text Generation in a Few Sampling Steps** \
 *Vincent Tao Hu, Di Wu, Yuki M. Asano, Pascal Mettes, Basura Fernando, Björn Ommer, Cees G.M. Snoek* \
  EACL 2024. [[Paper](https://aclanthology.org/2024.eacl-short.33.pdf)] 
 
