@@ -181,6 +181,15 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
 
 # Applications
 
+**Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation**\
+*Ian Dunn, David Ryan Koes* \
+ Arxiv 2024/04. [[Paper](https://arxiv.org/abs/2404.19739)] 
+
+**Dirichlet Flow Matching with Applications to DNA Sequence Design**\
+*Hannes Stark, Bowen Jing, Chenyu Wang, Gabriele Corso, Bonnie Berger, Regina Barzilay, Tommi Jaakkola* \
+ Arxiv 2024/02. [[Paper](https://arxiv.org/abs/2402.05841)] 
+ 
+
 **D-Flow: Differentiating through Flows for Controlled Generation**\
 *Heli Ben-Hamu, Omri Puny, Itai Gat, Brian Karrer, Uriel Singer, Yaron Lipman* \
  ICML 2024. [[Paper](https://arxiv.org/abs/2402.14017)] 
