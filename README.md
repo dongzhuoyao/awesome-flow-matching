@@ -324,7 +324,7 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.14575)] \
 
 **Riemannian Flow Matching on General Geometries** \
 *Ricky T. Q. Chen, Yaron Lipman* \
-arXiv 2023. [[Paper](https://arxiv.org/abs/2302.03660)] \
+ICLR 2024. [[Paper](https://arxiv.org/abs/2302.03660)] \
 27 Feb 2023
 
 
