@@ -181,6 +181,11 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
 
 # Applications
 
+**Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**\
+*Peng Gao, Le Zhuo, Ziyi Lin, Chris Liu, Junsong Chen, Ruoyi Du, Enze Xie, Xu Luo, Longtian Qiu, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li * \
+ Arxiv 2024/05. [[Paper](https://arxiv.org/abs/2405.05945)] 
+ 
+
 **Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation**\
 *Ian Dunn, David Ryan Koes* \
  Arxiv 2024/04. [[Paper](https://arxiv.org/abs/2404.19739)] 
