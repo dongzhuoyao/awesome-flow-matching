@@ -172,6 +172,10 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13117)]
 *Zhicong Tang, Tiankai Hang, Shuyang Gu, Dong Chen, Baining Guo* \
 Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)] 
 
+**Switched Flow Matching: Eliminating Singularities via Switching ODEs** \
+*Qunxi Zhu, Wei Lin* \
+ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)] 
+
 
 
 
