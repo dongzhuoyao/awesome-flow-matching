@@ -185,6 +185,11 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)]
 
 # Applications
 
+**Metric Flow Matching for Smooth Interpolations on the Data Manifold**
+*Kacper Kapusniak, Peter Potaptchik, Teodora Reu, Leo Zhang, Alexander Tong, Michael Bronstein, Avishek Joey Bose, Francesco Di Giovanni* \
+ Arxiv 2024/05. [[Paper](https://arxiv.org/abs/2405.14780)] 
+ 
+
 **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**\
 *Peng Gao, Le Zhuo, Ziyi Lin, Chris Liu, Junsong Chen, Ruoyi Du, Enze Xie, Xu Luo, Longtian Qiu, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li * \
  Arxiv 2024/05. [[Paper](https://arxiv.org/abs/2405.05945)] 
