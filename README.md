@@ -91,6 +91,11 @@ Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)]
 
 # Theory
 
+**Improving the Training of Rectified Flows** \
+*Sangyun Lee, Zinan Lin, Giulia Fanti*\
+Arxiv 2405. [[Paper](https://arxiv.org/abs/2405.20320)] 
+
+
 **Denoising Diffusion Bridge Models** \
 *Linqi Zhou, Aaron Lou, Samar Khanna, Stefano Ermon*\
 ICLR 24. [[Paper](https://arxiv.org/abs/2402.18839)] 
