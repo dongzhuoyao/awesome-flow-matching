@@ -190,6 +190,10 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)]
 
 # Applications
 
+**Preference Alignment with Flow Matching**
+*Minu Kim, Yongsik Lee, Sehyeok Kang, Jihwan Oh, Song Chong, Seyoung Yun* \
+ Arxiv 2024/05. [[Paper](https://arxiv.org/abs/2405.19806)] 
+
 **Metric Flow Matching for Smooth Interpolations on the Data Manifold**
 *Kacper Kapusniak, Peter Potaptchik, Teodora Reu, Leo Zhang, Alexander Tong, Michael Bronstein, Avishek Joey Bose, Francesco Di Giovanni* \
  Arxiv 2024/05. [[Paper](https://arxiv.org/abs/2405.14780)] 
