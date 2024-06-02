@@ -91,6 +91,12 @@ Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)]
 
 # Theory
 
+
+**Improving the Training of Rectified Flows** \
+*Sangyun Lee, Zinan Lin, Giulia Fanti*\
+Arxiv 2405. [[Paper](https://arxiv.org/abs/2405.20320)] 
+
+
 **Improving the Training of Rectified Flows** \
 *Sangyun Lee, Zinan Lin, Giulia Fanti*\
 Arxiv 2405. [[Paper](https://arxiv.org/abs/2405.20320)] 
@@ -189,6 +195,12 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)]
 
 
 # Applications
+
+
+
+**SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow**
+*Chaoyang Wang, Xiangtai Li, Lu Qi, Henghui Ding, Yunhai Tong, Ming-Hsuan Yang* \
+ Arxiv 2024/05. [[Paper](https://arxiv.org/abs/2405.20282)] 
 
 **Preference Alignment with Flow Matching**
 *Minu Kim, Yongsik Lee, Sehyeok Kang, Jihwan Oh, Song Chong, Seyoung Yun* \
