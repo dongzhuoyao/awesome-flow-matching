@@ -92,7 +92,9 @@ Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)]
 # Theory
 
 
-
+**Flow matching achieves minimax optimal convergence**\
+*Kenji Fukumizu, Taiji Suzuki, Noboru Isobe, Kazusato Oko, Masanori Koyama*\
+Arxiv 2405. [[Paper](https://arxiv.org/abs/2405.20879)] 
 
 **Improving the Training of Rectified Flows** \
 *Sangyun Lee, Zinan Lin, Giulia Fanti*\
