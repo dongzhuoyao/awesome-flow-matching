@@ -84,7 +84,7 @@ Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.12940)]
 *Amirmojtaba Sabour, Sanja Fidler, Karsten Kreis* \
 Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14507)] 
 
-**Multidimensional Interpolants** \ 
+**Multidimensional Interpolants**\ 
 *Dohoon Lee, Kyogu Lee* \
 Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)] 
 
