@@ -189,7 +189,12 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)]
 
 
 
+# Accelerating
 
+
+**Bespoke Non-Stationary Solvers for Fast Sampling of Diffusion and Flow Models**
+*Neta Shaul, Uriel Singer, Ricky T. Q. Chen, Matthew Le, Ali Thabet, Albert Pumarola, Yaron Lipman* \
+ Arxiv 2024/03. [[Paper](https://arxiv.org/abs/2403.01329)] 
 
 
 
