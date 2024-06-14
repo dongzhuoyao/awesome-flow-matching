@@ -188,6 +188,12 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)]
 
 
 
+# Discrete Data
+
+**Variational Flow Matching for Graph Generation**
+*Floor Eijkelboom, Grigory Bartosh, Christian Andersson Naesseth, Max Welling, Jan-Willem van de Meent* \
+ Arxiv 2024/06. [[Paper](https://arxiv.org/abs/2406.04843)] 
+ 
 
 # Accelerating
 
