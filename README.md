@@ -79,10 +79,18 @@ Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.07507)]
 *Gavin Kerrigan, Giosue Migliorini, Padhraic Smyth* \
 Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)] 
 
+**Metric Flow Matching for Smooth Interpolations on the Data Manifold**\
+*Kacper Kapusniak, Peter Potaptchik, Teodora Reu, Leo Zhang, Alexander Tong, Michael Bronstein, Avishek Joey Bose, Francesco Di Giovanni*\
+Arxiv May 2023. [[Paper](https://arxiv.org/abs/2405.14780)]
+
 **Unlocking Guidance for Discrete State-Space
 Diffusion and Flow Models**\
 *Hunter Nisonoff, Junhao Xiong, Stephan Allenspach, Jennifer Listgarten*\
 Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.01572)]
+
+**Variational Schrödinger Diffusion Models**\
+*Wei Deng, Weijian Luo, Yixin Tan, Marin Biloš, Yu Chen, Yuriy Nevmyvaka, Ricky T. Q. Chen *\
+ICML 2024. [[Paper](https://openreview.net/forum?id=kRv0WPJd00&referrer=%5Bthe%20profile%20of%20Weijian%20Luo%5D(%2Fprofile%3Fid%3D~Weijian_Luo1))]
 
 **Neural Flow Diffusion Models: Learnable Forward Process for Improved Diffusion Modelling** \
 *Grigory Bartosh, Dmitry Vetrov, Christian A. Naesseth* \
