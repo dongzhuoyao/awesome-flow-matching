@@ -201,6 +201,30 @@ JMLR (2023). [[Paper](https://www.jmlr.org/papers/volume24/23-0527/23-0527.pdf)]
 *Xingchao Liu, Lemeng Wu, Mao Ye, qiang liu*\
 ICLR 2023. [[Paper](https://openreview.net/forum?id=WH1yCa0TbB)]
 
+**Image-to-Image Schrödinger Bridge** \
+*Guan-Horng Liu, Arash Vahdat, De-An Huang, Evangelos Theodorou, Weili Nie, Anima Anandkumar* \
+ICML 2023. [[Paper]([https://i2sb.github.io/](https://proceedings.mlr.press/v202/liu23ai/liu23ai.pdf))]
+
+**On Schrödinger Bridge Matching and Expectation Maximization** \
+*Rob Brekelmans, Kirill Neklyudov* \
+OTML 2023. [[Paper](https://openreview.net/forum?id=Bd4DTPzOGO)]
+
+**Light and Optimal Schrödinger Bridge Matching** \
+*Nikita Gushchin, Sergei Kholkin, Evgeny Burnaev, Alexander Korotin* \
+ICML 2024. [[Paper](https://openreview.net/forum?id=EWJn6hfZ4J&referrer=%5Bthe%20profile%20of%20Alexander%20Korotin%5D(%2Fprofile%3Fid%3D~Alexander_Korotin2))]
+
+**Fast Ensembling with Diffusion Schrödinger Bridge** \
+*Hyunsu Kim, Jongmin Yoon, Juho Lee* \
+ICLR 2024. [[Paper](https://openreview.net/forum?id=Mgq6kxl115)]
+
+**Generalized Schrödinger Bridge Matching** \
+*Guan-Horng Liu, Yaron Lipman, Maximilian Nickel, Brian Karrer, Evangelos Theodorou, Ricky T. Q. Chen * \
+ICLR 2024. [[Paper](https://openreview.net/forum?id=SoismgeX7z)]
+
+**Light Schrödinger Bridge** \
+*Alexander Korotin, Nikita Gushchin, Evgeny Burnaev* \
+ICLR 2024. [[Paper](https://openreview.net/forum?id=WhZoCLRWYJ)]
+
 # Discrete Data
 
 **Variational Flow Matching for Graph Generation**
