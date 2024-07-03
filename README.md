@@ -60,7 +60,7 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2310.08337)]
 Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.06626)] 
 
 **Bellman Optimal Stepsize Straightening of Flow-Matching Models**\
-*Bao Nguyen, Binh Nguyen, Viet Anh Nguyen *\
+*Bao Nguyen, Binh Nguyen, Viet Anh Nguyen*\
 ICLR 2024. [[Paper](https://openreview.net/forum?id=Iyve2ycvGZ)]
 
 **Action Matching: Learning Stochastic Dynamics from Samples** \
@@ -91,7 +91,7 @@ Diffusion and Flow Models**\
 Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.01572)]
 
 **Variational Schrödinger Diffusion Models**\
-*Wei Deng, Weijian Luo, Yixin Tan, Marin Biloš, Yu Chen, Yuriy Nevmyvaka, Ricky T. Q. Chen *\
+*Wei Deng, Weijian Luo, Yixin Tan, Marin Biloš, Yu Chen, Yuriy Nevmyvaka, Ricky T. Q. Chen*\
 ICML 2024. [[Paper](https://openreview.net/forum?id=kRv0WPJd00&referrer=%5Bthe%20profile%20of%20Weijian%20Luo%5D(%2Fprofile%3Fid%3D~Weijian_Luo1))]
 
 **Neural Flow Diffusion Models: Learnable Forward Process for Improved Diffusion Modelling** \
@@ -221,7 +221,7 @@ Arxiv June 2024. [[Paper](https://arxiv.org/abs/2306.09099)]
 
 **Diffusion Bridge Mixture Transports, Schrödinger Bridge
 Problems and Generative Modeling** \
-*Stefano Peluchetti *\
+*Stefano Peluchetti*\
 JMLR (2023). [[Paper](https://www.jmlr.org/papers/volume24/23-0527/23-0527.pdf)]
 
 **Learning Diffusion Bridges on Constrained Domains** \
@@ -245,7 +245,7 @@ ICML 2024. [[Paper](https://openreview.net/forum?id=EWJn6hfZ4J&referrer=%5Bthe%2
 ICLR 2024. [[Paper](https://openreview.net/forum?id=Mgq6kxl115)]
 
 **Generalized Schrödinger Bridge Matching** \
-*Guan-Horng Liu, Yaron Lipman, Maximilian Nickel, Brian Karrer, Evangelos Theodorou, Ricky T. Q. Chen * \
+*Guan-Horng Liu, Yaron Lipman, Maximilian Nickel, Brian Karrer, Evangelos Theodorou, Ricky T. Q. Chen* \
 ICLR 2024. [[Paper](https://openreview.net/forum?id=SoismgeX7z)]
 
 **Light Schrödinger Bridge** \
@@ -294,11 +294,11 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=WhZoCLRWYJ)]
  
 
 **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**\
-*Peng Gao, Le Zhuo, Ziyi Lin, Chris Liu, Junsong Chen, Ruoyi Du, Enze Xie, Xu Luo, Longtian Qiu, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li * \
+*Peng Gao, Le Zhuo, Ziyi Lin, Chris Liu, Junsong Chen, Ruoyi Du, Enze Xie, Xu Luo, Longtian Qiu, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li* \
  Arxiv 2024/05. [[Paper](https://arxiv.org/abs/2405.05945)] 
 
- **Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation**\
- *Yuxuan Song, Jingjing Gong, Minkai Xu, Ziyao Cao, Yanyan Lan, Stefano Ermon, Hao Zhou, Wei-Ying Ma*\
+**Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation**\
+*Yuxuan Song, Jingjing Gong, Minkai Xu, Ziyao Cao, Yanyan Lan, Stefano Ermon, Hao Zhou, Wei-Ying Ma*\
  NeurIPS 2023. [[Paper](https://openreview.net/forum?id=hHUZ5V9XFu)]
 
 **Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation**\
@@ -362,7 +362,7 @@ Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)]
  
 
 **Scaling Rectified Flow Transformers for High-Resolution Image Synthesis**  \
-*Patrick Esser, Sumith Kulal, Andreas Blattmann, Rahim Entezari, Jonas Müller, Harry Saini, Yam Levi, Dominik Lorenz, Axel Sauer, Frederic Boesel, Dustin Podell, Tim Dockhorn, Zion English, Kyle Lacey, Alex Goodwin, Yannik Marek, Robin Rombach * \
+*Patrick Esser, Sumith Kulal, Andreas Blattmann, Rahim Entezari, Jonas Müller, Harry Saini, Yam Levi, Dominik Lorenz, Axel Sauer, Frederic Boesel, Dustin Podell, Tim Dockhorn, Zion English, Kyle Lacey, Alex Goodwin, Yannik Marek, Robin Rombach* \
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.03206)] 
 
 **Flow Matching for Conditional Text Generation in a Few Sampling Steps** \
@@ -374,8 +374,8 @@ Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)]
 *Nanye Ma, Mark Goldstein, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, Saining Xie* \
  Arxiv 2401. [[Paper](https://arxiv.org/abs/2401.08740)] 
 
- **AlphaFold Meets Flow Matching for Generating Protein Ensembles** \
- *Bowen Jing, Bonnie Berger, Tommi Jaakkola* \
+**AlphaFold Meets Flow Matching for Generating Protein Ensembles** \
+*Bowen Jing, Bonnie Berger, Tommi Jaakkola* \
  Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04845)] 
 
 **Bellman Optimal Step-size Straightening of Flow-Matching Models** \
@@ -387,7 +387,7 @@ Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)]
 *Vincent Tao Hu, David W Zhang, Pascal Mettes, Meng Tang, Deli Zhao, Cees G.M. Snoek* \
  AAAI 2024. [[Paper](https://arxiv.org/abs/2312.10825)] 
 
- **Motion Flow Matching for Human Motion Synthesis and Editing** \
+**Motion Flow Matching for Human Motion Synthesis and Editing** \
 *Vincent Tao Hu, Wenzhe Yin, Pingchuan Ma, Yunlu Chen, Basura Fernando, Yuki M Asano, Efstratios Gavves, Pascal Mettes, Bjorn Ommer, Cees G. M. Snoek* \
  Arxiv 2023. [[Paper](https://arxiv.org/abs/2312.08895)] 
 
@@ -448,7 +448,7 @@ ICLR 2024. [[Paper](https://arxiv.org/abs/2302.03660)] \
 27 Feb 2023
 
 **Generative Modeling on Manifolds Through Mixture of Riemannian Diffusion Processes** \
-*Jaehyeong Jo, Sung Ju Hwang *\
+*Jaehyeong Jo, Sung Ju Hwang*\
 ICML 2024. [[Paper](https://arxiv.org/abs/2310.07216)]
 
 **Graph Generation with Diffusion Mixture** \
@@ -456,7 +456,7 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2310.07216)]
 ICML 2024. [[Paper](https://openreview.net/forum?id=cZTFxktg23&referrer=%5Bthe%20profile%20of%20Sung%20Ju%20Hwang%5D(%2Fprofile%3Fid%3D~Sung_Ju_Hwang1))]
 
 **InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation** \
-*Xingchao Liu, Xiwen Zhang, Jianzhu Ma, Jian Peng, qiang liu * \
+*Xingchao Liu, Xiwen Zhang, Jianzhu Ma, Jian Peng, qiang liu* \
 ICLR 2024. [[Paper](https://openreview.net/forum?id=1k4yZbbDqX)]
 
 **Categorical Flow Matching on Statistical Manifolds**\
