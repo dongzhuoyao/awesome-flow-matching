@@ -51,7 +51,9 @@ Jan 2023
 *Aram-Alexandre Pooladian, Heli Ben-Hamu, Carles Domingo-Enrich, Brandon Amos, Yaron Lipman, Ricky T. Q. Chen* \
 Arxiv Apr 2023. [[Paper](https://arxiv.org/abs/2304.14772)] 
 
-
+**Neural Diffusion Models**\
+*Grigory Bartosh, Dmitry Vetrov, Christian A. Naesseth*\
+ICML 2024. [[Paper](https://arxiv.org/abs/2310.08337)]
 
 **On Kinetic Optimal Probability Paths for Generative Models** \
 *Neta Shaul, Ricky T. Q. Chen, Maximilian Nickel, Matt Le, Yaron Lipman* \
