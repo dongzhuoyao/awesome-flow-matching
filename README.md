@@ -97,6 +97,10 @@ Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.01572)]
 *Wei Deng, Weijian Luo, Yixin Tan, Marin Biloš, Yu Chen, Yuriy Nevmyvaka, Ricky T. Q. Chen*\
 ICML 2024. [[Paper](https://openreview.net/forum?id=kRv0WPJd00&referrer=%5Bthe%20profile%20of%20Weijian%20Luo%5D(%2Fprofile%3Fid%3D~Weijian_Luo1))]
 
+**On Kinetic Optimal Probability Paths for Generative Models**\
+*Neta Shaul, Ricky T. Q. Chen, Maximilian Nickel, Matthew Le, Yaron Lipman*\
+ICML 2023. [[Paper](https://proceedings.mlr.press/v202/shaul23a.html)]
+
 **Neural Flow Diffusion Models: Learnable Forward Process for Improved Diffusion Modelling** \
 *Grigory Bartosh, Dmitry Vetrov, Christian A. Naesseth* \
 Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.12940)] 
