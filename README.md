@@ -68,6 +68,9 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=Iyve2ycvGZ)]
 ICML 2023. [[Paper](https://arxiv.org/abs/2210.06662)] \
 Oct 2022
 
+**Stochastic Interpolants with Data-Dependent Couplings**\
+*Michael S. Albergo, Mark Goldstein, Nicholas M. Boffi, Rajesh Ranganath, Eric Vanden-Eijnden*\
+ICML 2024. [[Paper](https://arxiv.org/abs/2310.03725)]
 
 **Error Bounds for Flow Matching Methods** \
 *Joe Benton, George Deligiannidis, Arnaud Doucet* \
