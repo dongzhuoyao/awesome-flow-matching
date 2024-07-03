@@ -269,7 +269,7 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)]
 
 **ZigMa: Zigzag Mamba Diffusion Model** \
 *Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer* \
- Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13802)] 
+ ECCV 2024. [[Paper](https://arxiv.org/abs/2403.13802)] 
  
 
 **AdaFlow: Imitation Learning with Variance-Adaptive Flow-Based Policies** \
@@ -284,7 +284,7 @@ Arxiv 2402. [[Paper](https://arxiv.org/abs/2402.04292)]
 
 **Boosting Latent Diffusion with Flow Matching** \
 *Johannes S. Fischer*, Ming Gui*, Pingchuan Ma*, Nick Stracke, Stefan A. Baumann, Björn Ommer* \
- Arxiv 2312. [[Paper](https://arxiv.org/abs/2312.07360)] 
+ ECCV 2024. [[Paper](https://arxiv.org/abs/2312.07360)] 
 
 **Guided Flows for Generative Modeling and Decision Making** \
 *Qinqing Zheng, Matt Le, Neta Shaul, Yaron Lipman, Aditya Grover, Ricky T. Q. Chen* \
