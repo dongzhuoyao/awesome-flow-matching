@@ -431,3 +431,6 @@ ICML 2024. [[Paper](https://openreview.net/forum?id=cZTFxktg23&referrer=%5Bthe%2
 *Xingchao Liu, Xiwen Zhang, Jianzhu Ma, Jian Peng, qiang liu * \
 ICLR 2024. [[Paper](https://openreview.net/forum?id=1k4yZbbDqX)]
 
+**Categorical Flow Matching on Statistical Manifolds**\
+*Chaoran Cheng, Jiahan Li, Jian Peng, Ge Liu* \
+Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.16441)]
