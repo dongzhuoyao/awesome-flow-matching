@@ -57,7 +57,9 @@ Arxiv Apr 2023. [[Paper](https://arxiv.org/abs/2304.14772)]
 *Neta Shaul, Ricky T. Q. Chen, Maximilian Nickel, Matt Le, Yaron Lipman* \
 Arxiv June 2023. [[Paper](https://arxiv.org/abs/2306.06626)] 
 
-
+**Bellman Optimal Stepsize Straightening of Flow-Matching Models**\
+*Bao Nguyen, Binh Nguyen, Viet Anh Nguyen *\
+ICLR 2024. [[Paper](https://openreview.net/forum?id=Iyve2ycvGZ)]
 
 **Action Matching: Learning Stochastic Dynamics from Samples** \
 *Kirill Neklyudov, Rob Brekelmans, Daniel Severo, Alireza Makhzani* \
@@ -69,12 +71,18 @@ Oct 2022
 *Joe Benton, George Deligiannidis, Arnaud Doucet* \
 Arxiv 2023. [[Paper](https://arxiv.org/abs/2305.16860)] 
 
-
+**Flow Map Matching** \
+*Nicholas M. Boffi, Michael S. Albergo, Eric Vanden-Eijnden*\
+Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.07507)]
 
 **Functional Flow Matching** \
 *Gavin Kerrigan, Giosue Migliorini, Padhraic Smyth* \
 Arxiv May 2023. [[Paper](https://arxiv.org/abs/2305.17209)] 
 
+**Unlocking Guidance for Discrete State-Space
+Diffusion and Flow Models**\
+*Hunter Nisonoff, Junhao Xiong, Stephan Allenspach, Jennifer Listgarten*\
+Arxiv 2024. [[Paper](https://arxiv.org/abs/2406.01572)]
 
 **Neural Flow Diffusion Models: Learnable Forward Process for Improved Diffusion Modelling** \
 *Grigory Bartosh, Dmitry Vetrov, Christian A. Naesseth* \
