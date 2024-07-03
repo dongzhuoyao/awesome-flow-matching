@@ -213,6 +213,10 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)]
 
 # Schrödinger Bridge
 
+**Unbalanced Diffusion Schrödinger Bridge**\
+*Matteo Pariset, Ya-Ping Hsieh, Charlotte Bunne, Andreas Krause, Valentin De Bortoli*\
+Arxiv June 2024. [[Paper](https://arxiv.org/abs/2306.09099)]
+
 **Diffusion Bridge Mixture Transports, Schrödinger Bridge
 Problems and Generative Modeling** \
 *Stefano Peluchetti *\
