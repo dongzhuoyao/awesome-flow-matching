@@ -106,6 +106,9 @@ Arxiv 2405. [[Paper](https://arxiv.org/abs/2405.20879)]
 *Sangyun Lee, Zinan Lin, Giulia Fanti*\
 Arxiv 2405. [[Paper](https://arxiv.org/abs/2405.20320)] 
 
+**Improving and generalizing flow-based generative models with minibatch optimal transport**\
+*Alexander Tong, Kilian FATRAS, Nikolay Malkin, Guillaume Huguet, Yanlei Zhang, Jarrid Rector-Brooks, Guy Wolf, Yoshua Bengio*
+TMLR 2024. [[Paper](https://openreview.net/forum?id=CD9Snc73AW)]
 
 **Denoising Diffusion Bridge Models** \
 *Linqi Zhou, Aaron Lou, Samar Khanna, Stefano Ermon*\
