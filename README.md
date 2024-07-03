@@ -190,7 +190,16 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
 *Qunxi Zhu, Wei Lin* \
 ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)] 
 
+## Schrödinger Bridge
 
+**Diffusion Bridge Mixture Transports, Schrödinger Bridge
+Problems and Generative Modeling** \
+*Stefano Peluchetti *\
+JMLR (2023). [[Paper](https://www.jmlr.org/papers/volume24/23-0527/23-0527.pdf)]
+
+**Learning Diffusion Bridges on Constrained Domains** \
+*Xingchao Liu, Lemeng Wu, Mao Ye, qiang liu*\
+ICLR 2023. [[Paper](https://openreview.net/forum?id=WH1yCa0TbB)]
 
 # Discrete Data
 
@@ -383,5 +392,13 @@ arXiv 2022. [[Paper](https://arxiv.org/abs/2211.14575)] \
 *Ricky T. Q. Chen, Yaron Lipman* \
 ICLR 2024. [[Paper](https://arxiv.org/abs/2302.03660)] \
 27 Feb 2023
+
+**Generative Modeling on Manifolds Through Mixture of Riemannian Diffusion Processes** \
+*Jaehyeong Jo, Sung Ju Hwang *\
+ICLR 2024. [[Paper](https://openreview.net/forum?id=ZLSdwjDevK)]
+
+**Graph Generation with Diffusion Mixture** \
+*Jaehyeong Jo, Dongki Kim, Sung Ju Hwang*\
+ICML 2024. [[Paper](https://openreview.net/forum?id=cZTFxktg23&referrer=%5Bthe%20profile%20of%20Sung%20Ju%20Hwang%5D(%2Fprofile%3Fid%3D~Sung_Ju_Hwang1))]
 
 
