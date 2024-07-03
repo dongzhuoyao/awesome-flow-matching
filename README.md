@@ -94,7 +94,9 @@ Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)]
 
 
 
-
+**Explicit Flow Matching: On The Theory of Flow Matching Algorithms with Applications**\
+*Gleb Ryzhakov, Svetlana Pavlova, Egor Sevriugov, Ivan Oseledets* \
+Arxiv 2024. [[Paper](https://arxiv.org/abs/2402.03232)]
 
 **Flow matching achieves minimax optimal convergence**\
 *Kenji Fukumizu, Taiji Suzuki, Noboru Isobe, Kazusato Oko, Masanori Koyama*\
