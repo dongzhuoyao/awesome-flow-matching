@@ -190,7 +190,7 @@ Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.14623)]
 *Qunxi Zhu, Wei Lin* \
 ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)] 
 
-## Schrödinger Bridge
+# Schrödinger Bridge
 
 **Diffusion Bridge Mixture Transports, Schrödinger Bridge
 Problems and Generative Modeling** \
@@ -203,7 +203,7 @@ ICLR 2023. [[Paper](https://openreview.net/forum?id=WH1yCa0TbB)]
 
 **Image-to-Image Schrödinger Bridge** \
 *Guan-Horng Liu, Arash Vahdat, De-An Huang, Evangelos Theodorou, Weili Nie, Anima Anandkumar* \
-ICML 2023. [[Paper]([https://i2sb.github.io/](https://proceedings.mlr.press/v202/liu23ai/liu23ai.pdf))]
+ICML 2023. [[Paper](https://proceedings.mlr.press/v202/liu23ai/liu23ai.pdf)]
 
 **On Schrödinger Bridge Matching and Expectation Maximization** \
 *Rob Brekelmans, Kirill Neklyudov* \
