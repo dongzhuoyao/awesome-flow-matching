@@ -93,6 +93,9 @@ Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)]
 # Theory
 
 
+
+
+
 **Flow matching achieves minimax optimal convergence**\
 *Kenji Fukumizu, Taiji Suzuki, Noboru Isobe, Kazusato Oko, Masanori Koyama*\
 Arxiv 2405. [[Paper](https://arxiv.org/abs/2405.20879)] 
@@ -206,6 +209,10 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)]
 
 
 # Applications
+
+**Flow Matching in Latent Space** 
+*Quan Dao, Hao Phung, Binh Nguyen, Anh Tran* \
+ Arxiv 2023/07. [[Paper](https://arxiv.org/abs/2307.08698)] 
 
 
 **Consistency Flow Matching: Defining Straight Flows with Velocity Consistency** 
