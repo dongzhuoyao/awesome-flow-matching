@@ -89,6 +89,7 @@ Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14507)]
 Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)] 
 
 
+
 # Theory
 
 
@@ -207,6 +208,10 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2405.11605)]
 # Applications
 
 
+**Consistency Flow Matching: Defining Straight Flows with Velocity Consistency** 
+*Ling Yang, Zixiang Zhang, Zhilong Zhang, Xingchao Liu, Minkai Xu, Wentao Zhang, Chenlin Meng, Stefano Ermon, Bin Cui* \
+ Arxiv 2024/07. [[Paper](https://huggingface.co/papers/2407.02398)] 
+ 
 
 **SemFlow: Binding Semantic Segmentation and Image Synthesis via Rectified Flow**
 *Chaoyang Wang, Xiangtai Li, Lu Qi, Henghui Ding, Yunhai Tong, Ming-Hsuan Yang* \
