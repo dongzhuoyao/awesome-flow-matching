@@ -296,7 +296,10 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=WhZoCLRWYJ)]
 **Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers**\
 *Peng Gao, Le Zhuo, Ziyi Lin, Chris Liu, Junsong Chen, Ruoyi Du, Enze Xie, Xu Luo, Longtian Qiu, Yuhang Zhang, Chen Lin, Rongjie Huang, Shijie Geng, Renrui Zhang, Junlin Xi, Wenqi Shao, Zhengkai Jiang, Tianshuo Yang, Weicai Ye, He Tong, Jingwen He, Yu Qiao, Hongsheng Li * \
  Arxiv 2024/05. [[Paper](https://arxiv.org/abs/2405.05945)] 
- 
+
+ **Equivariant Flow Matching with Hybrid Probability Transport for 3D Molecule Generation**\
+ *Yuxuan Song, Jingjing Gong, Minkai Xu, Ziyao Cao, Yanyan Lan, Stefano Ermon, Hao Zhou, Wei-Ying Ma*\
+ NeurIPS 2023. [[Paper](https://openreview.net/forum?id=hHUZ5V9XFu)]
 
 **Mixed Continuous and Categorical Flow Matching for 3D De Novo Molecule Generation**\
 *Ian Dunn, David Ryan Koes* \
