@@ -395,7 +395,7 @@ ICLR 2024. [[Paper](https://arxiv.org/abs/2302.03660)] \
 
 **Generative Modeling on Manifolds Through Mixture of Riemannian Diffusion Processes** \
 *Jaehyeong Jo, Sung Ju Hwang *\
-ICLR 2024. [[Paper](https://openreview.net/forum?id=ZLSdwjDevK)]
+ICML 2024. [[Paper](https://arxiv.org/abs/2310.07216)]
 
 **Graph Generation with Diffusion Mixture** \
 *Jaehyeong Jo, Dongki Kim, Sung Ju Hwang*\
