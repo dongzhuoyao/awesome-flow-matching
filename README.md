@@ -425,4 +425,7 @@ ICML 2024. [[Paper](https://arxiv.org/abs/2310.07216)]
 *Jaehyeong Jo, Dongki Kim, Sung Ju Hwang*\
 ICML 2024. [[Paper](https://openreview.net/forum?id=cZTFxktg23&referrer=%5Bthe%20profile%20of%20Sung%20Ju%20Hwang%5D(%2Fprofile%3Fid%3D~Sung_Ju_Hwang1))]
 
+**InstaFlow: One Step is Enough for High-Quality Diffusion-Based Text-to-Image Generation** \
+*Xingchao Liu, Xiwen Zhang, Jianzhu Ma, Jian Peng, qiang liu * \
+ICLR 2024. [[Paper](https://openreview.net/forum?id=1k4yZbbDqX)]
 
