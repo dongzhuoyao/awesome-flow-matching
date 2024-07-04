@@ -188,12 +188,6 @@ arXiv 2023. [[Paper](https://arxiv.org/abs/2303.01748)]\
 arXiv 2023. [[Paper](https://arxiv.org/abs/2301.12594),[Code](https://github.com/saleml/continuous-gfn)]\
 30 Jan 2023
 
-
-**Improved Techniques for Maximum Likelihood Estimation for Diffusion ODEs**\
-*Kaiwen Zheng, Cheng Lu, Jianfei Chen, Jun Zhu*\
-ICML 2023. [[Paper](https://arxiv.org/abs/2305.03935)] 
-
-
 **Diffusion Schrödinger Bridge Matching**\
 *Yuyang Shi, Valentin De Bortoli, Andrew Campbell, Arnaud Doucet*\
 Arxiv March 2023. [[Paper](https://arxiv.org/abs/2303.16852)] 
