@@ -133,7 +133,7 @@ TMLR 2024. [[Paper](https://openreview.net/forum?id=CD9Snc73AW)]
 
 **Denoising Diffusion Bridge Models**\
 *Linqi Zhou, Aaron Lou, Samar Khanna, Stefano Ermon*\
-ICLR 24. [[Paper](https://arxiv.org/abs/2402.18839)] 
+ICLR 24. [[Paper](https://openreview.net/forum?id=FKksTayvGo)] 
 
 **Extended Flow Matching: a Method of Conditional Generation with
 Generalized Continuity Equation**\
