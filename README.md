@@ -110,6 +110,9 @@ Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14507)]
 Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)] 
 
 
+**Discrete Flow Matching**\
+*Itai Gat, Tal Remez, Neta Shaul, Felix Kreuk, Ricky T. Q. Chen, Gabriel Synnaeve, Yossi Adi, Yaron Lipman*\
+Arxiv July 2024. [[Paper](https://arxiv.org/abs/2407.15595)] 
 
 # Theory
 
