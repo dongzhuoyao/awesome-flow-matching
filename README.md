@@ -114,6 +114,10 @@ Arxiv April 2024. [[Paper](https://arxiv.org/abs/2404.14161v1)]
 *Itai Gat, Tal Remez, Neta Shaul, Felix Kreuk, Ricky T. Q. Chen, Gabriel Synnaeve, Yossi Adi, Yaron Lipman*\
 Arxiv July 2024. [[Paper](https://arxiv.org/abs/2407.15595)] 
 
+**Variational flow matching for graph generation**\
+*Floor Eijkelboom, Grigory Bartosh, Christian A. Naesseth, Max Welling, Jan-Willem van de Meent*\
+NeurIPS 2024. [[Paper](https://openreview.net/forum?id=UahrHR5HQh&noteId=BoBuVw1Bmx)] 
+
 # Theory
 
 
