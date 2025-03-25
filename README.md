@@ -274,6 +274,10 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=WhZoCLRWYJ)]
 
 # Applications
 
+**Gumbel-Softmax Flow Matching with Straight-Through Guidance for Controllable Biological Sequence Generation**
+*Sophia Tang, Yinuo Zhang, Alexander Tong, Pranam Chatterjee*\
+ Arxiv 2025/03. [[Paper](https://arxiv.org/abs/2503.17361)] 
+
 **Flow Matching in Latent Space** 
 *Quan Dao, Hao Phung, Binh Nguyen, Anh Tran*\
  Arxiv 2023/07. [[Paper](https://arxiv.org/abs/2307.08698)] 
