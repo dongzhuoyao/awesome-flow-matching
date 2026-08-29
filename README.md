@@ -471,6 +471,11 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=1k4yZbbDqX)]
 *Chaoran Cheng, Jiahan Li, Jian Peng, Ge Liu*\
 Arxiv 2024. [[Paper](https://arxiv.org/abs/2405.16441)]
 
+**Rectified-CFG++ for Flow Based Models**\
+*Shreshth Saini, Shashank Gupta, Alan C. Bovik*\
+NeurIPS 2025. [[Paper](https://arxiv.org/abs/2510.07631)] [[Code](https://github.com/shreshthsaini/Rectified-CFGpp)]\
+Oct 2025
+
 ---
 
 # Auto-Discovered Papers (10+ citations)
