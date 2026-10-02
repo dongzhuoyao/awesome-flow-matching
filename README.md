@@ -346,7 +346,7 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=WhZoCLRWYJ)]
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13788)] 
 
 **ZigMa: Zigzag Mamba Diffusion Model**\
-*Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Fischer, Bjorn Ommer*\
+*Vincent Tao Hu, Stefan Andreas Baumann, Ming Gui, Olga Grebenkova, Pingchuan Ma, Johannes Schusterbauer, Bjorn Ommer*\
  ECCV 2024. [[Paper](https://arxiv.org/abs/2403.13802)] 
  
 
@@ -838,7 +838,7 @@ This list is automatically generated and updated daily.
 Computer Vision and Pattern Recognition 2024. (cited: 26) [[Paper](https://arxiv.org/abs/2411.16443)]\
 Nov 2024
 
-**Electron flow matching for generative reaction mechanism prediction**\
+**Electron flow matching for generative reaction mechanism prediction obeying conservation laws**\
 *J. F. Joung, Mun Hong Fong, Nicholas Casetti, Jordan P. Liles, Ne S. Dassanayake, et al.*\
 Nature 2025. (cited: 15) [[Paper](https://arxiv.org/abs/2502.12979)]\
 Feb 2025
