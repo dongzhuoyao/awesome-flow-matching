@@ -337,7 +337,7 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=WhZoCLRWYJ)]
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.12510)] 
  
 
-**Probabilistic Forecasting with Stochastic Interpolants and F¨ollmer Processes**\ 
+**Probabilistic Forecasting with Stochastic Interpolants and Föllmer Processes**\
 *Yifan Chen, Mark Goldstein, Mengjian Hua, Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden*\
  Arxiv 2403. [[Paper](https://arxiv.org/abs/2403.13724)] 
 
