@@ -274,6 +274,10 @@ ICLR 2024. [[Paper](https://openreview.net/forum?id=WhZoCLRWYJ)]
 
 # Applications
 
+**MEND: RL For Flow Models via Proximal Velocity Matching**\
+*Shreshth Saini, Neil Birkbeck, Yilin Wang, Balu Adsumilli, Alan C. Bovik*\
+ Arxiv 2026/10. [[Paper](https://arxiv.org/abs/2610.05954)] [[Code](https://github.com/shreshthsaini/MEND-RL)]
+
 **Gumbel-Softmax Flow Matching with Straight-Through Guidance for Controllable Biological Sequence Generation**
 *Sophia Tang, Yinuo Zhang, Alexander Tong, Pranam Chatterjee*\
  Arxiv 2025/03. [[Paper](https://arxiv.org/abs/2503.17361)] 
